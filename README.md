@@ -3,7 +3,7 @@
 ## 📅 Mi Progreso Académico
 
 - **Carrera**: Tecnologías de la Información 🖥️
-- **Semestre**: 3er semestre 📊
+- **Semestre**: 4to semestre 📊
 - **Universidad**: Universidad Estatal Amazónica 🏫
 
 ## 💡 Mis Áreas de Interés
@@ -28,11 +28,7 @@
 - **Frameworks**: React.js ⚛️, Node.js 🚀
 - **Herramientas de Desarrollo**: Visual Studio Code 🖥️, GitHub 🧑‍💻
 
-## 🏆 Metas a Corto Plazo
 
-- Mejorar mis habilidades en **Ciberseguridad** 🔐
-- Desarrollar un proyecto de **Aplicación Móvil** 📱
-- Estudiar **Machine Learning** 🤖
 
 ## 📝 Contacto
 
