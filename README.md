@@ -48,7 +48,8 @@
 4. **Desarrollo Web Frontend** 🌐
  
 <summary>
-<h2>🛠️ My Favorite Tools</h2></summary>
+    
+## <h2>🛠️ My Favorite Tools</h2></summary>
 
 ## <h3>👨‍💻 Programming and Markup Languages</h3>
 
