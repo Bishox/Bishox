@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05F714&width=435&lines=Hello!;Welcome...;I+am+a+Bishox)](https://git.io/typing-svg)
+
+
 ¡Bienvenido a mi repositorio! 👩‍💻👨‍💻 Soy un estudiante de **Tecnologías de la Información** en mi **3er semestre** 🎓. Aquí encontrarás información sobre mis proyectos y avances académicos. 
 
 ## 📅 Mi Progreso Académico
