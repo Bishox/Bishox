@@ -25,13 +25,13 @@
 ¡Bienvenido a mi repositorio! 👩‍💻 Soy un estudiante de Ingenieria en Tecnologías de la Información. 
 <br> Aquí encontrarás información sobre mis proyectos y avances académicos.</br> 
 </p>
-## 📅 Mi Progreso Académico
+📅 Mi Progreso Académico
 
 - **Carrera**: Tecnologías de la Información 🖥️
 - **Semestre**: 4to semestre 📊
 - **Universidad**: Universidad Estatal Amazónica 🏫
 
-## 💡 Mis Áreas de Interés
+💡 Mis Áreas de Interés
 
 - **Programación** 💻
 - **Redes** 🌐
@@ -39,14 +39,14 @@
 - **Desarrollo Web** 🌍
 - **Ciberseguridad** 🔐
 
-## 🧑‍🏫 Cursos Actuales
+🧑‍🏫 Cursos Actuales
 
 1. **Estructura de Datos** 📚
 2. **Redes de Computadoras** 🌐
 3. **Bases de Datos Avanzadas** 🗃️
 4. **Desarrollo Web Frontend** 🌐
 
-## ⚙️ Herramientas y Tecnologías
+⚙️ Herramientas y Tecnologías
 
 - **Lenguajes de Programación**: Python 🐍, JavaScript ⚡, Csharp
 - **Bases de Datos**: MySQL 🛢️, MongoDB 🍃, MariaDB, Sqlite
