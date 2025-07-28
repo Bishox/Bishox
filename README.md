@@ -22,7 +22,8 @@
 </p>
 
 <p align="center">
-¡Bienvenido a mi repositorio! 👩‍💻👨‍💻 Soy un estudiante de **Tecnologías de la Información** en mi **3er semestre** 🎓. Aquí encontrarás información sobre mis proyectos y avances académicos. 
+¡Bienvenido a mi repositorio! 👩‍💻👨‍💻 Soy un estudiante de Ingenieria en Tecnologías de la Información actualmente curso el 4to semestre 🎓. 
+<br> Aquí encontrarás información sobre mis proyectos y avances académicos.</br> 
 </p>
 ## 📅 Mi Progreso Académico
 
