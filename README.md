@@ -47,7 +47,7 @@
 - **Bases de Datos**: MySQL 🛢️, MongoDB 🍃, MariaDB, Sqlite
 - **Frameworks**: React.js ⚛️, Node.js 🚀
 - **Herramientas de Desarrollo**: Visual Studio Code 🖥️, GitHub 🧑‍💻
-<details> 
+ 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
