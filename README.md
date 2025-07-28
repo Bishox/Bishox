@@ -21,8 +21,9 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
+<p align="center">
 ¡Bienvenido a mi repositorio! 👩‍💻👨‍💻 Soy un estudiante de **Tecnologías de la Información** en mi **3er semestre** 🎓. Aquí encontrarás información sobre mis proyectos y avances académicos. 
-
+</p>
 ## 📅 Mi Progreso Académico
 
 - **Carrera**: Tecnologías de la Información 🖥️
