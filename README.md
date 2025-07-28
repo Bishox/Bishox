@@ -25,13 +25,13 @@
 ¡Bienvenido a mi repositorio! 👩‍💻 Soy un estudiante de Ingenieria en Tecnologías de la Información. 
 <br> Aquí encontrarás información sobre mis proyectos y avances académicos.</br> 
 </p>
-##📅 Mi Progreso Académico
+## 📅 Mi Progreso Académico
 
 - **Carrera**: Tecnologías de la Información 🖥️
 - **Semestre**: 4to semestre 📊
 - **Universidad**: Universidad Estatal Amazónica 🏫
 
-💡 Mis Áreas de Interés
+## 💡 Mis Áreas de Interés
 
 - **Programación** 💻
 - **Redes** 🌐
@@ -39,14 +39,14 @@
 - **Desarrollo Web** 🌍
 - **Ciberseguridad** 🔐
 
-🧑‍🏫 Cursos Actuales
+## 🧑‍🏫 Cursos Actuales
 
 1. **Estructura de Datos** 📚
 2. **Redes de Computadoras** 🌐
 3. **Bases de Datos Avanzadas** 🗃️
 4. **Desarrollo Web Frontend** 🌐
 
-⚙️ Herramientas y Tecnologías
+## ⚙️ Herramientas y Tecnologías
 
 - **Lenguajes de Programación**: Python 🐍, JavaScript ⚡, Csharp
 - **Bases de Datos**: MySQL 🛢️, MongoDB 🍃, MariaDB, Sqlite
@@ -56,7 +56,7 @@
 <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+## <h3>👨‍💻 Programming and Markup Languages</h3>
 
 <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
@@ -75,7 +75,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-<h3>🧰 Frameworks and Libraries</h3>
+## <h3>🧰 Frameworks and Libraries</h3>
 
 <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
