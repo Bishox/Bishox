@@ -25,7 +25,7 @@
 ¡Bienvenido a mi repositorio! 👩‍💻 Soy un estudiante de Ingenieria en Tecnologías de la Información. 
 <br> Aquí encontrarás información sobre mis proyectos y avances académicos.</br> 
 </p>
-📅 Mi Progreso Académico
+##📅 Mi Progreso Académico
 
 - **Carrera**: Tecnologías de la Información 🖥️
 - **Semestre**: 4to semestre 📊
