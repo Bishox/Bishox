@@ -47,9 +47,7 @@
 3. **Bases de Datos Avanzadas** 🗃️
 4. **Desarrollo Web Frontend** 🌐
  
-<summary>
-    
-## <h2>🛠️ My Favorite Tools</h2></summary>
+## <h2>🛠️ My Favorite Tools</h2>
 
 ## <h3>👨‍💻 Programming and Markup Languages</h3>
 
