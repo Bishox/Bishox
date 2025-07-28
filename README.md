@@ -46,18 +46,10 @@
 2. **Redes de Computadoras** 🌐
 3. **Bases de Datos Avanzadas** 🗃️
 4. **Desarrollo Web Frontend** 🌐
-
-## ⚙️ Herramientas y Tecnologías
-
-- **Lenguajes de Programación**: Python 🐍, JavaScript ⚡, Csharp
-- **Bases de Datos**: MySQL 🛢️, MongoDB 🍃, MariaDB, Sqlite
-- **Frameworks**: React.js ⚛️, Node.js 🚀
-- **Herramientas de Desarrollo**: Visual Studio Code 🖥️, GitHub 🧑‍💻
  
-<summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-## <h3>👨‍💻 Programming and Markup Languages</h3>
+<summary>
+    ## <h2>🛠️ My Favorite Tools</h2></summary>
+<h3>👨‍💻 Programming and Markup Languages</h3>
 
 <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
