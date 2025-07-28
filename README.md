@@ -4,11 +4,6 @@
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F70F&width=435&lines=Full-stack+web+and+app+developer" /></a>
 </p>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=00F70F&center=true&width=435&lines=Bishox)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F70F&width=435&lines=Full-stack+web+and+app+developer)](https://git.io/typing-svg)
-
 <!-- Social icons section -->
 <p align="center">
   <a href=""><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
