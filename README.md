@@ -40,15 +40,6 @@
 - **Desarrollo Web** 🌍
 - **Ciberseguridad** 🔐
 
-## 🧑‍🏫 Cursos Actuales
-
-1. **Estructura de Datos** 📚
-2. **Redes de Computadoras** 🌐
-3. **Bases de Datos Avanzadas** 🗃️
-4. **Desarrollo Web Frontend** 🌐
- 
-
-
 ## <h3>👨‍💻 Programming and Markup Languages</h3>
 
 <p>
