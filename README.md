@@ -29,7 +29,7 @@
 ## 📅 Mi Progreso Académico
 
 - **Carrera**: Tecnologías de la Información 🖥️
-- **Semestre**: 4to semestre 📊
+- **Semestre**: 5to semestre 📊
 - **Universidad**: Universidad Estatal Amazónica 🏫
 
 ## 💡 Mis Áreas de Interés
